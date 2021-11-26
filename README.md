@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sakshi Dinkar Chaudhari .
 - 👀 I’m interested in Web Designing , Web Development , Software Development , Software Engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning IT Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me E-mail on sakshichaudhari12527@gmail.com
 - LinkedIn : linkedin.com/in/sakshichaudhari-aa414b20a 
